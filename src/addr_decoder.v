@@ -1,7 +1,7 @@
-`include "sizes.vh"
+`include "global.vh"
 
 module addr_decoder #(
-		parameter WORD_SIZE=`WORD_SIZE
+		parameter WORD_SIZE=16
 	) (
 		input [WORD_SIZE-1:0] addr,
 		output rom_en, ram_en

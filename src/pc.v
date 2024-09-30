@@ -1,7 +1,5 @@
-`include "sizes.vh"
-
 module pc_reg #(
-		parameter WORD_SIZE=`WORD_SIZE
+		parameter WORD_SIZE=16
 	) (
 		input clk, reset,
 		input inc,
@@ -10,12 +8,8 @@ module pc_reg #(
 
 	reg [WORD_SIZE-1:0] count;
 
-	initial begin
-		count = 0;
-	end
-
 	always @(posedge clk) begin
-		if (reset) begin
+		if (reset == `RESET) begin
 			count <= 0;
 		end else if (inc) begin
 			count <= count + 1;
