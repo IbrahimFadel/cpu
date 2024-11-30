@@ -1,0 +1,730 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dW:/241/project/ModelSim
+vadder
+!s110 1731721431
+!i10b 1
+!s100 QmU07@O7A=4lWc7Yb<HU:3
+ITBoJ5Z_WM=A:;GSdo6^Bn0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1731719934
+Z2 8../datapath.v
+Z3 F../datapath.v
+Z4 F..\parameters.vh
+L0 63
+Z5 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1731721429.000000
+Z6 !s107 ..\control_signals.vh|..\parameters.vh|../top.v|../register_file.v|../ram512x32.v|../mux.v|../mem_ctrl.v|../ff.v|../extend.v|../datapath.v|../cpu.v|../controller.v|../alu.v|
+Z7 !s90 -reportprogress|300|../alu.v|../controller.v|../cpu.v|../datapath.v|../extend.v|../ff.v|../mem_ctrl.v|../mux.v|../ram512x32.v|../register_file.v|../top.v|../ram512x32.v|
+!i113 1
+Z8 tCvgOpt 0
+valu
+Z9 !s110 1732563520
+!i10b 1
+!s100 ^W`m]S2hk>moYame?`z^52
+IA1Sz=[`FHgIcY[S7]=jaG1
+R1
+Z10 dC:/FINAL-241-PROJECT/ModelSim
+Z11 w1732509982
+8../alu.v
+F../alu.v
+R4
+Z12 F..\control_signals.vh
+L0 1
+R5
+r1
+!s85 0
+31
+Z13 !s108 1732563520.000000
+Z14 !s107 ..\control_signals.vh|..\parameters.vh|../vga_adapter/vga_pll.v|../vga_adapter/vga_controller.v|../vga_adapter/vga_address_translator.v|../vga_adapter/vga_adapter.v|../vga_writer.v|../top.v|../register_file.v|../ram512x32.v|../mux.v|../mem_ctrl.v|../ff.v|../extend.v|../datapath.v|../cpu.v|../controller.v|../alu.v|
+Z15 !s90 -reportprogress|300|../alu.v|../controller.v|../cpu.v|../datapath.v|../extend.v|../ff.v|../mem_ctrl.v|../mux.v|../ram512x32.v|../register_file.v|../top.v|../vga_writer.v|../vga_adapter/vga_adapter.v|../vga_adapter/vga_address_translator.v|../vga_adapter/vga_controller.v|../vga_adapter/vga_pll.v|../ram512x32.v|
+!i113 1
+R8
+vamount_of_time_to_plot_all_reg_char_counter
+!s110 1732328398
+!i10b 1
+!s100 dQ3Ka5:WNC`Nfe_6N@]Cf3
+Ij2`a<n6mc]^CX]56>5X::3
+R1
+R0
+Z16 w1732047140
+Z17 8../vga_writer.v
+Z18 F../vga_writer.v
+L0 202
+R5
+r1
+!s85 0
+31
+Z19 !s108 1732328396.000000
+Z20 !s107 ..\control_signals.vh|..\parameters.vh|../vga_writer.v|../top.v|../register_file.v|../ram512x32.v|../mux.v|../mem_ctrl.v|../ff.v|../extend.v|../datapath.v|../cpu.v|../controller.v|../alu.v|
+Z21 !s90 -reportprogress|300|../alu.v|../controller.v|../cpu.v|../datapath.v|../extend.v|../ff.v|../mem_ctrl.v|../mux.v|../ram512x32.v|../register_file.v|../top.v|../vga_writer.v|../ram512x32.v|
+!i113 1
+R8
+vamount_of_time_to_plot_char_counter
+Z22 !s110 1732328399
+!i10b 1
+!s100 Xg;?z]cAXPg<RC@9?Ha7[1
+I17?K`OmSOjj[m4hJ7YMOD2
+R1
+R0
+R16
+R17
+R18
+L0 219
+R5
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 1
+R8
+vchar_bitmap
+R9
+!i10b 1
+!s100 hk?6XPJ:M7N@FiGBXLQ]P0
+IGaF@LG8SCT??2YJ>UHAK]2
+R1
+R10
+Z23 w1732561462
+R17
+R18
+L0 231
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vchar_counter
+R22
+!i10b 1
+!s100 _FlCZ4WbdIEQ00K_FBi@e2
+IOaZI90[1^[>lc[m1jELbI2
+R1
+R0
+R16
+R17
+R18
+L0 235
+R5
+r1
+!s85 0
+31
+R19
+R20
+R21
+!i113 1
+R8
+vcontroller
+R9
+!i10b 1
+!s100 Vl_GNL^<efP5g9=XUQOEk1
+IbMmCI>6noFEZ4QGoUi<mk0
+R1
+R10
+R11
+Z24 8../controller.v
+Z25 F../controller.v
+R4
+R12
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vcpu
+R9
+!i10b 1
+!s100 13iZj=K66=Di7aUmAcSW03
+IibHSjmh?mSiDX[h?>l9cQ1
+R1
+R10
+w1732561131
+8../cpu.v
+F../cpu.v
+R4
+R12
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vcpu_mem
+Z26 !s110 1732307194
+!i10b 1
+!s100 JHd0jUQZXR<4Ff719gRaM0
+I88nW>0le^:<IBQmM6[e6O0
+R1
+R0
+Z27 w1731729778
+Z28 8../mem_ctrl.v
+Z29 F../mem_ctrl.v
+R4
+Z30 L0 13
+R5
+r1
+!s85 0
+31
+Z31 !s108 1732307191.000000
+R20
+R21
+!i113 1
+R8
+vdatapath
+R9
+!i10b 1
+!s100 FQ]G4KdQm:TLz1AI0Ho<Y3
+IMTcdOfQ2md@[ME8NOZk`;2
+R1
+R10
+w1732561205
+R2
+R3
+R4
+R12
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vdecoder
+R9
+!i10b 1
+!s100 RTCT8U`^:>0fPIc9hO5<N2
+I7=1dnFB9lAbDCi<3Bibo`3
+R1
+R10
+w1732509980
+R24
+R25
+R12
+L0 83
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vextend
+R9
+!i10b 1
+!s100 _N<lW<3:Q4:<>Q2Ek0E4C3
+IS14<aGb0Z;nI2[TI3mSRX3
+R1
+R10
+R11
+8../extend.v
+F../extend.v
+R4
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vff
+R9
+!i10b 1
+!s100 Y2E4=YRBi>i6g_jc>Qhe=1
+IiFGY]_>RYdlYXm3j54Qj53
+R1
+R10
+w1732509932
+8../ff.v
+F../ff.v
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vfull_char_counter
+R9
+!i10b 1
+!s100 <35RP8knFGg19hG_OnINY1
+I_bMklNPPfkzoSPDIcL4J>3
+R1
+R10
+R23
+R17
+R18
+L0 169
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vindices_counter
+R9
+!i10b 1
+!s100 k?`@zf5z6]NIKSg=GB`]71
+IY3DG<dccHa]7NjRg]inQa2
+R1
+R10
+R23
+R17
+R18
+L0 185
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vmaindec
+!s110 1731428486
+!i10b 1
+!s100 bRZ;iTDgfZ]QKg]G?X=WG1
+I^aMUOH3N8j30FB>hDB8Ql0
+R1
+R0
+w1731428445
+R24
+R25
+R12
+L0 42
+R5
+r1
+!s85 0
+31
+!s108 1731428484.000000
+R6
+R7
+!i113 1
+R8
+vmem_ctrl
+R9
+!i10b 1
+!s100 TR;3cA>n8icE:9:4LK]nd0
+ITE]`b:X<f3FN@M2Tg=^_a3
+R1
+R10
+w1732510019
+R28
+R29
+R4
+R12
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vmux2
+R9
+!i10b 1
+!s100 l=0I9T^aWG1?1J8?5<GZJ1
+ID@Q`Rm5GD;:;];gcA_Y^02
+R1
+R10
+R11
+Z32 8../mux.v
+Z33 F../mux.v
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vmux3
+R9
+!i10b 1
+!s100 GndcP9=^EYTMc7PVoJndf2
+IeC4:gJRJdTLQWF:AlZ1BV0
+R1
+R10
+R11
+R32
+R33
+L0 15
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vmux4
+R9
+!i10b 1
+!s100 Qk]EnKb_4o0fRCce3Sf^a1
+I<<e_^dV8?A1eT6cmeY]5a2
+R1
+R10
+R11
+R32
+R33
+Z34 L0 31
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vram32x32
+!s110 1732313155
+!i10b 1
+!s100 m8408II2K3h?LCF1XVTh61
+IXW5P]X28]H4N=:an2OVfn3
+R1
+R0
+w1732312776
+8../ram32x32.v
+F../ram32x32.v
+Z35 L0 39
+R5
+r1
+!s85 0
+31
+!s108 1732313152.000000
+!s107 ..\control_signals.vh|..\parameters.vh|../vga_writer.v|../top.v|../register_file.v|../ram512x32.v|../ram32x32.v|../mux.v|../mem_ctrl.v|../ff.v|../extend.v|../datapath.v|../cpu.v|../controller.v|../alu.v|
+!s90 -reportprogress|300|../alu.v|../controller.v|../cpu.v|../datapath.v|../extend.v|../ff.v|../mem_ctrl.v|../mux.v|../ram32x32.v|../ram512x32.v|../register_file.v|../top.v|../vga_writer.v|../ram512x32.v|
+!i113 1
+R8
+vram512x32
+R9
+!i10b 1
+!s100 TXaBe2`7z7oMdEI?1FZC@2
+I:m4?P`>W:ggR=^f?>F[X`1
+R1
+R10
+w1732558557
+8../ram512x32.v
+F../ram512x32.v
+R35
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vreg_mem_ctrl
+!s110 1732314393
+!i10b 1
+!s100 INhUlnSINKd0R8`C?Y`I^0
+I]n1I3<THDofEn?9_oaQV03
+R1
+R0
+w1732312810
+R28
+R29
+R4
+R30
+R5
+r1
+!s85 0
+31
+!s108 1732314391.000000
+R20
+R21
+!i113 1
+R8
+vregister_file
+R9
+!i10b 1
+!s100 Hn8610>Dn4azdc;LFhAOT1
+I:bz?hdiLI^SLa4=nC60zg1
+R1
+R10
+w1732563503
+8../register_file.v
+F../register_file.v
+R4
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vseven_seg_display
+R9
+!i10b 1
+!s100 8?JQFfUmXh5gM<I?6]<512
+IT`oWS:fYhKZ[QYI4C_oA51
+R1
+R10
+Z36 w1732563517
+Z37 8../top.v
+Z38 F../top.v
+L0 245
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vslow_clock
+R9
+!i10b 1
+!s100 nbJ;kU2c364I@?n9DbQLa3
+IZlWWI7Y<Xg8^d[Bo]WT`f1
+R1
+R10
+R36
+R37
+R38
+L0 221
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vtb
+R9
+!i10b 1
+!s100 A`Dj@O5C6HG8335z06B7Z1
+IK[<1@nN=;ckAIZCD[F2I[2
+R1
+R10
+w1732509946
+8testbench.v
+Ftestbench.v
+L0 3
+R5
+r1
+!s85 0
+31
+R13
+!s107 testbench.v|
+!s90 -reportprogress|300|testbench.v|
+!i113 1
+R8
+vtop
+R9
+!i10b 1
+!s100 D?NLO939@n<YV9CWZYf@f2
+IPV1l_]DQQB>?V06l32^X10
+R1
+R10
+R36
+R37
+R38
+R4
+R12
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vvga
+R9
+!i10b 1
+!s100 Mgh@?9IA_Cci[di]z[HIJ2
+I[lHoeFM?nX0Iz`DI[nzJX2
+R1
+R10
+R23
+R17
+R18
+R34
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vvga_adapter
+R9
+!i10b 1
+!s100 TWDYGGI0Wl5Kl4DSjIZR53
+Id@AkXT;gSSYNeoQ>AhIMG0
+R1
+R10
+Z39 w1732510020
+8../vga_adapter/vga_adapter.v
+F../vga_adapter/vga_adapter.v
+L0 51
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vvga_address_translator
+R9
+!i10b 1
+!s100 `K`RWO2nRBN_9O[2kR2lY0
+ICOA^MG28aFk?fZ0XF3PWL1
+R1
+R10
+R39
+8../vga_adapter/vga_address_translator.v
+F../vga_adapter/vga_address_translator.v
+L0 4
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vvga_controller
+R9
+!i10b 1
+!s100 @^BJ>n2fZ621S>e<B;GhU1
+I5VkE4]iRoZWC3>UTUOeen1
+R1
+R10
+R39
+8../vga_adapter/vga_controller.v
+F../vga_adapter/vga_controller.v
+L0 8
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vvga_pll
+R9
+!i10b 1
+!s100 4XSTjD`VEiamX^n1@5J`b3
+IiS55lg7TQ1f5@h1imQboh3
+R1
+R10
+R39
+8../vga_adapter/vga_pll.v
+F../vga_adapter/vga_pll.v
+L0 36
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
+vvga_ram
+R26
+!i10b 1
+!s100 3KD68Q4FNGlagLk3?W06P0
+I=SI6NSaVCm8h>l7m`M`k[3
+R1
+R0
+R27
+R28
+R29
+R4
+L0 30
+R5
+r1
+!s85 0
+31
+R31
+R20
+R21
+!i113 1
+R8
+vvga_writer
+R9
+!i10b 1
+!s100 9PMT2XTZiWzjP:KjJMKaa0
+Il7H^7Dk;efaREDWJMCbH`3
+R1
+R10
+R23
+R17
+R18
+L0 1
+R5
+r1
+!s85 0
+31
+R13
+R14
+R15
+!i113 1
+R8
