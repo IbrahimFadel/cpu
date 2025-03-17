@@ -1,0 +1,25 @@
+parameter int ALU_OP_WIDTH = 4;
+
+typedef enum logic [ALU_OP_WIDTH - 1 : 0] {
+  ALU_OP_ADD = ALU_OP_WIDTH'(0),
+  ALU_OP_SLT = ALU_OP_WIDTH'(1),
+  ALU_OP_SLTU = ALU_OP_WIDTH'(2),
+  ALU_OP_AND = ALU_OP_WIDTH'(3),
+  ALU_OP_OR = ALU_OP_WIDTH'(4),
+  ALU_OP_XOR = ALU_OP_WIDTH'(5),
+  ALU_OP_SLL = ALU_OP_WIDTH'(6),
+  ALU_OP_SLR = ALU_OP_WIDTH'(7),
+  ALU_OP_SUB = ALU_OP_WIDTH'(8),
+  ALU_OP_SRA = ALU_OP_WIDTH'(9)
+} AluOp;
+
+typedef enum logic [2 : 0] {
+  IMM_EXTEND_MODE_I_INST = 0,
+  IMM_EXTEND_MODE_S_INST = 1,
+  IMM_EXTEND_MODE_B_INST = 2,
+  IMM_EXTEND_MODE_U_INST = 3,
+  IMM_EXTEND_MODE_J_INST = 4
+} ImmExtendMode;
+
+parameter int NUM_REGISTERS = 32;
+parameter int REGISTER_ADDRESS_WIDTH = 5;
